@@ -9,6 +9,7 @@ import Analyze from "./pages/Analyze";
 import AnalyzeSelect from "./pages/AnalyzeSelect";
 import Analytics from "./pages/Analytics";
 import NotFound from "./pages/NotFound";
+import './firebase'
 
 const queryClient = new QueryClient();
 
